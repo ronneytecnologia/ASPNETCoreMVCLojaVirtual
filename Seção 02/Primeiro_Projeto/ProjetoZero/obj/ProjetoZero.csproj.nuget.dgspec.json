@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronne\\Desktop\\CURSOS\\Curso_ASP.NET\\Primeiro_Projeto\\ProjetoZero\\ProjetoZero.csproj": {}
+    "C:\\Users\\ronne\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro_Projeto\\ProjetoZero\\ProjetoZero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronne\\Desktop\\CURSOS\\Curso_ASP.NET\\Primeiro_Projeto\\ProjetoZero\\ProjetoZero.csproj": {
+    "C:\\Users\\ronne\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro_Projeto\\ProjetoZero\\ProjetoZero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronne\\Desktop\\CURSOS\\Curso_ASP.NET\\Primeiro_Projeto\\ProjetoZero\\ProjetoZero.csproj",
+        "projectUniqueName": "C:\\Users\\ronne\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro_Projeto\\ProjetoZero\\ProjetoZero.csproj",
         "projectName": "ProjetoZero",
-        "projectPath": "C:\\Users\\ronne\\Desktop\\CURSOS\\Curso_ASP.NET\\Primeiro_Projeto\\ProjetoZero\\ProjetoZero.csproj",
+        "projectPath": "C:\\Users\\ronne\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro_Projeto\\ProjetoZero\\ProjetoZero.csproj",
         "packagesPath": "C:\\Users\\ronne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ronne\\Desktop\\CURSOS\\Curso_ASP.NET\\Primeiro_Projeto\\ProjetoZero\\obj\\",
+        "outputPath": "C:\\Users\\ronne\\Desktop\\ASPNETCoreMVCLojaVirtual\\Seção 02\\Primeiro_Projeto\\ProjetoZero\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
